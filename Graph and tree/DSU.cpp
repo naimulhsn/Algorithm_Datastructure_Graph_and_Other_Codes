@@ -23,6 +23,5 @@ int main()
         cin>>u>>v;
         Union(u,v);
     }
-
     return 0;
 }
